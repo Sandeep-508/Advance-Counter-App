@@ -1,0 +1,110 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@100..900&display=swap');
+
+* {
+    font-family: "Inter", sans-serif;
+}
+
+.advance {
+    font-family: Inter;
+    font-size: 36px;
+    font-weight: 400;
+    line-height: 44px;
+    letter-spacing: 0em;
+    text-align: center;
+    color: #808080;
+}
+
+.card {
+    width: 460px;
+    height: 304px;
+    background-color: white;
+}
+
+.d-flex {
+    display: flex;
+}
+
+.align-items-center {
+    align-items: center;
+}
+
+.justify-content-center {
+    justify-content: center;
+}
+
+.flex-column {
+    flex-direction: column;
+}
+
+.pb-5 {
+    padding-bottom: 48px;
+}
+
+.btn_pad {
+    padding-left: 35px;
+    padding-right: 35px;
+    padding-top: 13px;
+    padding-bottom: 13px;
+}
+
+.var_num {
+    font-family: Inter;
+    font-size: 36px;
+    font-weight: 400;
+    line-height: 44px;
+    letter-spacing: 0em;
+    text-align: center;
+}
+
+.add {
+    font-family: Inter;
+    font-size: 16px;
+    font-weight: 600;
+    line-height: 19px;
+    letter-spacing: 0em;
+    text-align: center;
+    border: 1px solid #128DFF;
+    color: #128DFF;
+}
+
+.save {
+    font-family: Inter;
+    font-size: 16px;
+    font-weight: 600;
+    line-height: 19px;
+    letter-spacing: 0em;
+    text-align: center;
+    border: 1px solid #128DFF;
+    color: #128DFF;
+}
+
+.add:active {
+    background-color: #128DFF !important;
+    color: white;
+}
+
+.save:active {
+    background-color: #128DFF !important;
+    color: white;
+}
+
+.brdr_rad {
+    border-radius: 10px;
+}
+
+.gap-2 {
+    gap: 8px;
+}
+
+.brdr_rad_20 {
+    border-radius: 20px;
+}
+
+.prev_val {
+    font-family: Inter;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 19px;
+    letter-spacing: 0em;
+    text-align: center;
+}
